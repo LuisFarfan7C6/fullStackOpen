@@ -1,4 +1,4 @@
-## Exercise 0.5 - Single page application diagram
+## Exercise 0.6 - New note on single page application diagram
 
 ```mermaid
 sequenceDiagram
